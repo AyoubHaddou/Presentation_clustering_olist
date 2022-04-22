@@ -11,7 +11,7 @@ II. Exploration du proket
 
 - Notebook de la modélisation du clustering ([ici](https://github.com/AyoubHaddou/Presentation_clustering_olist/blob/main/02_modelisation.ipynb))
 
-- Tu peux directement voir le resultat de mes clusters sur le pdf : Presentation_clusters ([ici](https://github.com/AyoubHaddou/Presentation_clustering_olist))
+- Tu peux directement voir le resultat de mes clusters sur le pdf ([ici](https://github.com/AyoubHaddou/Presentation_clustering_olist))
 
 
 Source : 
